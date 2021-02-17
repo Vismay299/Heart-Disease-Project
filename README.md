@@ -14,3 +14,6 @@ What could have been the perfect way to utilize the unfortunate lockdown period?
 
 * Hence I went to Hyperparameter Tuning of Logistic Regression and Random Forest which gace an accuracy of 88% and 85% respectively.
   
+##  Conclusion 
+
+This project would not have been possible if not for the various notebooks on Kaggle.com where people had uploaded their own implementation of the same dataset. Understanding their thought process played a major role in shaping my project. Finally my end goal is to deploy this model on the web so that people are able to predict their  chances of getting a heart disease or not.
