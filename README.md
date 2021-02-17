@@ -1,7 +1,7 @@
 # Heart Disease Predection Using Machine Learning
  
 ## Overview
-This is a simple Classification task to predict whether someone has heart disease or not. The trained model takes 13 features as input (which include 303 rows and 13 columns) to output ) or 1 in the target column. Here 0 represents that the person does not have heart disease and 1 represents that the person has heart disease. I have achieved a maximum accuracy of 85% with Logistic Regression model.
+This is a simple Classification task to predict whether someone has heart disease or not. The trained model takes 13 features as input (which include 303 rows and 13 columns) to output ) or 1 in the target column. Here 0 represents that the person does not have heart disease and 1 represents that the person has heart disease. I have achieved a maximum accuracy of 88% with Logistic Regression model.
 
 ## Motivation
 What could have been the perfect way to utilize the unfortunate lockdown period? Like most of the people i sepent my time cooking, Netflix, coding and reading some research parers now and then. The idea od classifing Heart Disease come from when I across a plethora of papers where scholars were trying to increase the accuracy using different models and techniques. This is my first project , my first step into this huge ocean of data science so this led me to try my own hand at this dataset and create my very first machine learning model.
